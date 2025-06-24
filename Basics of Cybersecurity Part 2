@@ -1,0 +1,55 @@
+### ✅ **Daily Update – Section 1 Wrap-Up: Basics of Cybersecurity**
+
+Today, I wrapped up the remaining topics from **Section 1** of the course. Here's what I covered:
+
+---
+
+#### 🔓 **Offensive Security – Explained**
+
+* Offensive security focuses on **attacking systems** to find vulnerabilities before attackers do.
+* Includes **Penetration Testing**, **Red Teaming**, and **Ethical Hacking**.
+
+---
+
+#### 🛡️ **Defensive Security – Explained**
+
+* Defensive security focuses on **protecting systems and data** from threats.
+* It involves monitoring, preventing, and responding to cyber attacks.
+
+**Key Components:**
+
+* 👨‍🏫 User Awareness
+* 🗂️ Asset Management
+* 🔄 System Updates
+* 📋 Logging and Monitoring
+* 🚧 Preventive Devices (Firewalls, IDS/IPS, etc.)
+
+**Focus Areas in Defensive Security:**
+
+* 🧠 Intelligent Threat Detection
+* 🛰️ Security Operations Center (SOC)
+* 🧪 DFIR (Digital Forensics & Incident Response)
+* 🦠 Malware Analysis
+
+---
+
+#### 🔐 **CIA Triad – Core of Cybersecurity**
+
+1. **Confidentiality** – Keep data secret from unauthorized users.
+2. **Integrity** – Keep data correct and unchanged.
+3. **Availability** – Keep systems running and data accessible when needed.
+
+---
+
+#### 📘 **Each CIA Concept – In Brief**
+
+* **Confidentiality**: Prevent unauthorized access to data.
+  *Example: Encryption, passwords.*
+
+* **Integrity**: Ensure data is accurate and unaltered.
+  *Example: Digital signatures, checksums.*
+
+* **Availability**: Ensure data and services are accessible when needed.
+  *Example: Backups, server uptime.*
+
+---
