@@ -1,0 +1,24 @@
+✅ Daily Update – Section 2 (Part 1): Foundational Security Terms
+Today, I completed the first two topics from Section 2: "Foundational Security Terms that a Security Analyst Must Know". These are critical concepts every SOC Analyst deals with daily. Here's what I learned:
+
+📘 Topic 1: Logs and Log Analysis
+Log: A record of events or activities on a system (like login attempts, file downloads, etc.).
+
+Log Analysis: Investigating logs to identify unusual or suspicious behavior.
+
+🔹 Key Terms:
+Event: Any action that occurs on a device or server (e.g., logging in, clicking a link).
+
+Alert: Triggered when an event matches a predefined rule or threat pattern.
+
+Incident: A confirmed threat that can harm systems/data, identified after analyzing alerts.
+
+False Positive: An alert that looks suspicious but is actually harmless (e.g., a legit user mistyping a password).
+
+True Positive: An alert that is a real threat, confirmed through analysis.
+
+📘 Topic 2: Playbook vs. Runbook
+Playbook: General guideline of how to respond to an incident. Think of it like a plan.
+
+Runbook: More detailed; step-by-step instructions to execute tasks. Helpful for automation and consistency.
+
