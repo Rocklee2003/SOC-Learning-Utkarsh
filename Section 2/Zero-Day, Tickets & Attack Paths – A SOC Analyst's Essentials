@@ -1,0 +1,78 @@
+
+
+### 📚 **Daily Update – Section 2 Continued: SOC Concepts**
+
+Today I continued exploring more important concepts related to Security Operations Center (SOC) and cybersecurity fundamentals. Here's what I covered:
+
+---
+
+#### 🔍 **1. Zero-Day Vulnerability**
+
+* Vulnerabilities that are **unknown to developers or security teams** and not yet patched.
+* Often detected **only after unusual activity or attacks**.
+* SOC teams depend on **Threat Intelligence** and **advanced detection methods** to spot these.
+
+---
+
+#### 🚨 **2. Incident Escalation**
+
+* When an incident needs **more expertise or authority**, it is escalated to a **higher-level analyst or another department**.
+* Ensures **timely and effective resolution** of serious threats.
+
+---
+
+#### 🔄 **3. SOC Shift Handover**
+
+* The **outgoing SOC team provides a detailed report** of incidents, alerts, and updates to the incoming team.
+* It’s the **responsibility of the incoming team** to fully understand and take over incident management smoothly.
+
+---
+
+#### 🎫 **4. Ticketing System**
+
+* Each incident is logged and tracked via a **ticket** in the SOC.
+* Tickets help organize, prioritize, and **document the incident response process**.
+* It ensures **structured and accountable incident handling**.
+
+---
+
+#### 💥 **5. Exploit**
+
+* An **exploit is a method or tool** used by attackers to take advantage of a **vulnerability**.
+* Example: Using an unpatched bug to gain unauthorized access to a system.
+
+---
+
+#### 🎭 **6. Social Engineering**
+
+* A manipulation technique where users are **tricked into revealing personal or sensitive information**.
+* Common types: **Phishing**, **vishing**, and **impersonation**.
+
+---
+
+#### 🛣️ **7. Attack Vectors**
+
+* Refers to the **paths or methods attackers use to breach systems**.
+* Examples: **Emails with malicious attachments**, **network intrusions**, or **infected USB devices**.
+
+---
+
+#### 🛡️ **8. Security Posture**
+
+* Describes the **overall strength and maturity of an organization’s cybersecurity defenses**.
+* Includes capabilities to:
+
+  * **Identify** threats,
+  * **Protect** assets,
+  * **Detect** incidents,
+  * **Respond** appropriately, and
+  * **Recover** from any security events.
+
+---
+
+👣 **Small steps every day = Giant leaps ahead.**
+More to come soon in this SOC learning journey! 🚀
+
+---
+
+
