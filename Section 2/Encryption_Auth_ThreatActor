@@ -1,0 +1,47 @@
+✅ Daily Update – Section 2 Continued: Core Security Concepts
+Today, I skimmed through and revised three important security concepts as part of my SOC course. These are foundational pillars in understanding how systems stay secure and who might try to break them.
+
+🔐 1. Encryption
+Encryption is the process of converting readable data (plaintext) into unreadable code (ciphertext) to protect it from unauthorized access.
+
+Purpose: To keep data confidential while storing or transferring it.
+
+Types:
+
+Symmetric encryption: Uses the same key for both encryption and decryption (e.g., AES).
+
+Asymmetric encryption: Uses a public key to encrypt and a private key to decrypt (e.g., RSA).
+
+Real-life use: HTTPS on websites, encrypted emails, VPNs, messaging apps like WhatsApp.
+
+Example: If I send "HELLO" and encrypt it with a key, it becomes something like "B8#@12", and only someone with the correct key can turn it back into "HELLO".
+
+👤 2. Authentication vs Authorization
+These two are often confused, but they serve different purposes:
+
+Concept	What it does	Example
+Authentication	Confirms who you are	Logging into Gmail with your username & password
+Authorization	Determines what you’re allowed to do	Being allowed to read emails, but not delete the admin account
+
+Authentication = Identity verification
+
+Authorization = Access control
+
+You must always authenticate first, then get authorized.
+
+🧑‍💻 3. Threat Actor
+A Threat Actor (also known as a malicious actor or attacker) is any person or group that intentionally causes harm to digital systems or data.
+
+Types of Threat Actors:
+
+Script Kiddies – Unskilled attackers using existing tools
+
+Hacktivists – Attack for political or social causes
+
+Cybercriminals – Want money (e.g., ransomware)
+
+Insider Threats – Disgruntled employees or careless staff
+
+State-Sponsored Actors – Government-level hackers targeting other nations or industries
+
+Think of them as villains in cybersecurity – each with different tools, motives, and skill levels.
