@@ -1,0 +1,45 @@
+🕵️‍♂️ Understanding Root Cause Analysis (RCA)
+Root Cause Analysis (RCA) is a problem-solving technique used to find the main cause of a cybersecurity issue or incident.
+Instead of just fixing the symptoms (like deleting malware), RCA digs deeper to understand:
+
+What exactly went wrong?
+
+How did it happen?
+
+What allowed it to happen?
+
+How can we prevent it from happening again?
+
+🔁 This is very useful in SOC to avoid repeat attacks and improve the security posture of the system or network.
+
+🔴🔵 Red Team vs Blue Team: The Cybersecurity War Game
+Red Team = The attacker side (ethical hackers/penetration testers) who simulate real-world cyberattacks to find vulnerabilities.
+
+Blue Team = The defender side (SOC analysts/security teams) who monitor, detect, and respond to those attacks.
+
+🎯 This simulation helps both teams improve their skills:
+
+Red team learns how to break in
+
+Blue team sharpens their ability to protect and respond
+
+This teamwork is often called a Purple Team exercise when both sides share knowledge to improve overall security.
+
+💣 Understanding Payloads
+A payload is the part of malware that does the actual damage once it's inside a system. It’s like the "delivery package" that carries harmful code.
+
+Examples of payload actions:
+
+Stealing data
+
+Encrypting files (like in ransomware)
+
+Creating backdoors for future access
+
+📦 Payloads are delivered through:
+
+Malicious email attachments
+
+Fake software
+
+Exploited vulnerabilities
