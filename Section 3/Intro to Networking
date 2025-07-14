@@ -1,0 +1,26 @@
+🧠 What I Learned
+Networking is all about connecting computers and devices so they can share data and communicate with each other. It’s the foundation of how the internet works and how systems inside organizations talk to one another.
+
+🔑 Key Concepts
+Network: A group of interconnected devices (like computers, routers, printers).
+
+IP Address: A unique identifier assigned to each device on a network.
+
+Router: A device that connects different networks together (e.g., your home network to the internet).
+
+Switch: A device that connects multiple devices within the same network and helps them communicate.
+
+LAN (Local Area Network): A small-scale network (like in an office or home).
+
+WAN (Wide Area Network): A large network that spans across multiple locations (like the internet).
+
+🔒 Why This Matters in Cybersecurity
+Understanding how networks are built and how data flows between devices is essential for a SOC Analyst. It helps in:
+
+Monitoring traffic and spotting anomalies
+
+Detecting unauthorized access
+
+Investigating incidents like data breaches or malware spread
+
+Building stronger defenses around critical systems
