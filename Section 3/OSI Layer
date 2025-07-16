@@ -1,0 +1,114 @@
+# 🌐 OSI Model Explained with Real-Life Example
+
+## 🧠 Topic Overview:
+The OSI Model (Open Systems Interconnection) is a conceptual model that standardizes the functions of a telecommunication or computing system into **seven distinct layers**. It helps us understand **how data moves across a network** from one device to another.
+
+---
+
+## 🔍 Real-World Example: Form Submission on a Company Website
+
+Imagine you're filling out and submitting a job application form on a company website. Let's trace how that data travels through the OSI model—from your browser to the company's server.
+
+---
+
+## 🧱 7 Layers of OSI Model (Top to Bottom)
+
+| Layer No. | Layer Name      | Description |
+|-----------|------------------|-------------|
+| 7         | Application       | User-facing apps (browser, email, etc.) |
+| 6         | Presentation      | Formats data, encrypts/decrypts |
+| 5         | Session           | Manages session between devices |
+| 4         | Transport         | Ensures complete data transfer |
+| 3         | Network           | Chooses best path using IP address |
+| 2         | Data Link         | Adds MAC address for local delivery |
+| 1         | Physical          | Sends bits over wire/Wi-Fi |
+
+---
+
+## 🔄 Step-by-Step Breakdown (with Protocols)
+
+### 🔹 7. Application Layer
+- **What Happens:** You use a web browser to fill out and submit a form.
+- **Protocols:** `HTTP`, `HTTPS`, `FTP`, `DNS`, `SMTP`
+- **Our Case:** You click "Submit" and the browser sends the data over `HTTPS`.
+
+---
+
+### 🔹 6. Presentation Layer
+- **What Happens:** Data is encrypted (TLS), formatted (like JSON).
+- **Protocols:** `SSL/TLS`, `JPEG`, `ASCII`, `MPEG`
+- **Our Case:** Form data is encrypted via `TLS` before being sent.
+
+---
+
+### 🔹 5. Session Layer
+- **What Happens:** Session between your browser and the server is maintained.
+- **Protocols:** `NetBIOS`, `RPC`, `SMB`
+- **Our Case:** A secure session is opened and maintained during the data transfer.
+
+---
+
+### 🔹 4. Transport Layer
+- **What Happens:** Breaks data into smaller chunks (segments), ensures complete delivery.
+- **Protocols:** `TCP`, `UDP`
+- **Our Case:** `TCP` is used to guarantee reliable transfer of form data.
+
+---
+
+### 🔹 3. Network Layer
+- **What Happens:** Adds source and destination IP addresses; chooses best route.
+- **Protocols:** `IP`, `ICMP`, `OSPF`, `BGP`
+- **Our Case:** Your IP and the company's server IP are included for proper routing.
+
+---
+
+### 🔹 2. Data Link Layer
+- **What Happens:** Adds MAC addresses for local delivery.
+- **Protocols:** `Ethernet`, `ARP`, `PPP`
+- **Our Case:** Your computer’s MAC address communicates with the router/switch.
+
+---
+
+### 🔹 1. Physical Layer
+- **What Happens:** Data is turned into electrical signals or radio waves.
+- **Examples:** Cables, Wi-Fi, hardware
+- **Our Case:** Form data is transmitted over Wi-Fi or Ethernet as binary signals (0s and 1s).
+
+---
+
+## 🎯 Reverse Process on Server Side:
+Once the company’s server receives your form data, the OSI layers are processed **bottom-up** from Layer 1 to Layer 7. The server decrypts, verifies, and processes your information.
+
+---
+
+## 📚 Protocols Summary Table
+
+| Layer            | Common Protocols/Examples                    |
+|------------------|----------------------------------------------|
+| 7. Application   | HTTP, HTTPS, FTP, SMTP, DNS                  |
+| 6. Presentation  | SSL/TLS, ASCII, JPEG, MPEG                   |
+| 5. Session       | NetBIOS, RPC, SMB                            |
+| 4. Transport     | TCP, UDP                                     |
+| 3. Network       | IP, ICMP, OSPF, BGP                          |
+| 2. Data Link     | Ethernet, ARP, PPP                           |
+| 1. Physical      | Cables, Wi-Fi, Hubs (Signal Transmission)    |
+
+---
+
+## 💡 Easy Way to Remember the Layers:
+👉 **"All People Seem To Need Data Processing"**
+
+---
+
+## ✅ Summary:
+By understanding how data flows through these 7 layers, we gain clarity on:
+- How websites work
+- How data is secured
+- How networking tools like Wireshark or firewalls monitor traffic
+- How SOC Analysts investigate packet-level attacks
+
+---
+
+### ✨ Learning Note:
+Even if I revisit this after a year, this breakdown will help me understand **where each protocol fits** and how my form submission is securely sent from my browser to a company server and back!
+
