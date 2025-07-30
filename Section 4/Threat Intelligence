@@ -1,0 +1,55 @@
+Threat Intelligence
+What is Threat Intelligence?
+Threat Intelligence is the process of collecting and analyzing information about cyber threats. It helps security teams understand attackers’ tactics, tools, and goals so they can predict, prevent, and respond to cyberattacks effectively.
+
+Purpose
+The main purpose of Threat Intelligence is to:
+
+Identify threats early before they cause harm.
+
+Understand attacker behavior (how they attack, why they attack).
+
+Improve defenses by preparing for known and possible threats.
+
+Support decision-making in security teams and management.
+
+Importance
+Threat Intelligence is important because:
+
+It helps protect sensitive data (like personal info, company secrets).
+
+Reduces reaction time during an attack by having prior knowledge.
+
+Gives insights into emerging threats (like new malware or phishing methods).
+
+Supports better security planning for the future.
+
+Saves costs by preventing big breaches instead of reacting later.
+
+How It Works
+Threat Intelligence works in 4 key steps:
+
+Collection
+
+Gather data from multiple sources: logs, dark web, open web, threat feeds, etc.
+
+Analysis
+
+Examine the data to identify patterns, attacker tools, and methods.
+
+Dissemination (Sharing)
+
+Share intelligence with security teams or other organizations for awareness.
+
+Action/Response
+
+Use insights to strengthen security measures and respond to threats quickly.
+
+Types of Threat Intelligence
+Strategic – Big picture view, trends, and risks for management.
+
+Tactical – Details about attacker methods and tools.
+
+Operational – Specific threats targeting the organization.
+
+Technical – Indicators like IPs, domains, file hashes used in attacks.
